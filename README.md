@@ -1,2 +1,3 @@
-pprd.github.io
+Privacy Policy Review Database documentation
 ==============
+http://docs.pprd.info/
